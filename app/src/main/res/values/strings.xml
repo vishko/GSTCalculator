@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GST Calculator</string>
+    <string name="price">price</string>
+    <string name="_0">0</string>
+    <string name="gst_6">GST 6%:</string>
+    <string name="price_without_gst">Price(GST excluded):</string>
+</resources>

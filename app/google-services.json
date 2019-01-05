@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1079092388286",
+    "firebase_url": "https://gstfirebaseproject-3d48a.firebaseio.com",
+    "project_id": "gstfirebaseproject-3d48a",
+    "storage_bucket": "gstfirebaseproject-3d48a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079092388286:android:327f84a356d41f31",
+        "android_client_info": {
+          "package_name": "com.vishko.gstcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079092388286-t2s35jbmk2gc1tk0qagv1hv2ssho4m9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishko.gstcalculator",
+            "certificate_hash": "3ca6a3d0b089a1b4b28cc8a856e93ccd9acd0082"
+          }
+        },
+        {
+          "client_id": "1079092388286-5vto2b35vjcbnp9vnu2lrg9qllmdovhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiu88wDd2Wt7QOhRKMQSvnPiy2ClW9dsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079092388286-5vto2b35vjcbnp9vnu2lrg9qllmdovhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
